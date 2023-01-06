@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoufianeLachheb
-- 👀 I’m interested in Data and everything Data related
-- 🌱 I’m currently in Master's degree in Data & IA
+- 👀 I’m interested in Data Science and everything Data related
+- 🌱 I’m currently in  a Master's degree in Data & IA
 - 💞️ I’m looking to collaborate on projects involving, Data, Machine Learning and Python
 - 📫 How to reach me : so.lachheb@gmail.com
 
